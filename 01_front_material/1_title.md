@@ -1,7 +1,6 @@
-\newcommand\titleLineOne{OCR}
-\newcommand\titleLineTwo{(I don't want to walk to the shops)}
-\newcommand\thesisAuthor{Charlotte Smith}
-\newcommand\supervisor{Dr. Matt Smith}
+\newcommand\titleLineOne{OCR Algorithm Comparison for Document Text Extraction on Logistics Documents}
+\newcommand\thesisAuthor{Patrik Hartl}
+\newcommand\supervisor{Prof. Dr. Paul G. Plöger, Prof. Dr. Andreas Hense}
 \newcommand\degree{B.Sc. in Business Information Systems}
 \newcommand\thesisYear{2021}
 \newcommand\institution{Hochschule Bonn-Rhein-Sieg eG}
