@@ -1,11 +1,11 @@
-\newcommand\titleLineOne{Why is there no butter in the fridge}
+\newcommand\titleLineOne{OCR}
 \newcommand\titleLineTwo{(I don't want to walk to the shops)}
 \newcommand\thesisAuthor{Charlotte Smith}
 \newcommand\supervisor{Dr. Matt Smith}
-\newcommand\degree{B.Sc. (Hons) in Science in Computing}
-\newcommand\thesisYear{2020}
-\newcommand\institution{TU Dublin}
-\newcommand\address{Dublin, Ireland}
+\newcommand\degree{B.Sc. in Business Information Systems}
+\newcommand\thesisYear{2021}
+\newcommand\institution{Hochschule Bonn-Rhein-Sieg eG}
+\newcommand\address{Bad Honnef, Germany}
 \begin{titlepage}
     \begin{center}
     
