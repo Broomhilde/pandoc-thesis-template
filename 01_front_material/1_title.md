@@ -1,4 +1,5 @@
 \newcommand\titleLineOne{OCR Algorithm Comparison for Document Text Extraction on Logistics Documents}
+\newcommand\titleLineTwo{(Bachelor Thesis)}
 \newcommand\thesisAuthor{Patrik Hartl}
 \newcommand\supervisor{Prof. Dr. Paul G. Plöger, Prof. Dr. Andreas Hense}
 \newcommand\degree{B.Sc. in Business Information Systems}
